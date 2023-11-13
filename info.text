@@ -1,0 +1,29 @@
+Sign up to gihub  with email address 
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+
+1) Verify with Email address
+
+2) Rememeber - email address password and username 
+
+3) Download and install git 
+
+4) Download and install git 
+https://git-scm.com/download/win 
+
+5)Type search in cmd and run command git --version
+
+6)Create a folder and open with visual studio code
+
+7)Add a file it and save the file with one line of code
+
+// configure username and email address
+
+8)Set your username: git config --global user.name "sonalinimbalkar17"
+
+9)Set your email address: git config --global user.email "sonalinimbalkar2001@gmail.com"
+
+10) git init 
+
+11) git add .
+
+12) git commit -m "added"
